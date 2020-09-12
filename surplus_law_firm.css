@@ -101,7 +101,7 @@ text-align:center;
 
 .img2{
 display:block;
-width:20vw;
+max-width:150px;
 margin:0 auto;
 }
 
