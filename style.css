@@ -127,7 +127,8 @@ transition:0.1s;
 }
 
 .section{
-padding-top:23vw;
+padding-top:10vh;
+height:90vh;
 }
 
 #ind1{
@@ -441,7 +442,8 @@ header{
 }
 
 .section{
-padding-top:7vw;
+padding-top:14vh;
+height:86vh;
 }
 
 #logo{
